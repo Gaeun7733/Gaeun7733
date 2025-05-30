@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello world! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Hi, I'm a junior developer interested in developing web and mobile applications, with a passion for data science.<br>Growing rapidly day by day!🌱🚀</li><br>안녕하세요! 저는 웹과 앱 개발에 관심이 있는 주니어 개발자 입니다. 데이터 사이언스 분야에도 관심이 있어요. <br>하루가 다르게 무럭무럭 성장하는 중! </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Hi, I'm a junior developer interested in developing web and mobile applications, with a passion for data science.<br>Growing rapidly day by day!🌱🚀</li><br><br>안녕하세요! 저는 웹과 앱 개발에 관심이 있는 주니어 개발자 입니다. 데이터 사이언스 분야에도 관심이 있어요. <br>하루가 다르게 무럭무럭 성장하는 중! </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
